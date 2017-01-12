@@ -1,0 +1,16 @@
+{
+  "name": "atmira-ui-checklist",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.1",
+    "commit": "96e645b129114a6a69e8a32e057deeb5d207b207"
+  },
+  "main": [
+    "./dist/checklist-model.js"
+  ],
+  "_source": "https://Atmira-Front-End@bitbucket.org/Atmira-Front-End/atmira-ui-checklist.git",
+  "_target": "*",
+  "_originalSource": "https://Atmira-Front-End@bitbucket.org/Atmira-Front-End/atmira-ui-checklist.git",
+  "version": "1.0.1"
+}
